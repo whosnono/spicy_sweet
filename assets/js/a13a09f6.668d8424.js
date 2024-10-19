@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentos_capacitacion_equipo_2=self.webpackChunkdocumentos_capacitacion_equipo_2||[]).push([[3376],{7537:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/spicy_sweet/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

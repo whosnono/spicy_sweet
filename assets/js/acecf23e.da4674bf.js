@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentos_capacitacion_equipo_2=self.webpackChunkdocumentos_capacitacion_equipo_2||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/spicy_sweet/blog","blogTitle":"Blog","authorsListPath":"/spicy_sweet/blog/authors"}')}}]);
